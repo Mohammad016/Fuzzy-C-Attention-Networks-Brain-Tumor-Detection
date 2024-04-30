@@ -52,4 +52,3 @@ bilateral_filtered_img = cv2.bilateralFilter(equalized_img, d=8, sigmaColor=75, 
 plt.imshow(bilateral_filtered_img)
 plt.title('Bilateral Filtered Image')
 plt.axis('off')
-
