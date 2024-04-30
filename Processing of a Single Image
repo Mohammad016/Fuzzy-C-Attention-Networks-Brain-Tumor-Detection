@@ -1,4 +1,4 @@
-Processing of a Single Image
+#Processing of a Single Image
 
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
